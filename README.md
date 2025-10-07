@@ -1,11 +1,6 @@
 Glycosync: Smart Mobile Application for Personalized Diabetes Self-Care and Glucose Monitoring
 
-![GitHub Repo Size](https://img.shields.io/github/repo-size/yourusername/diacare)  
-![GitHub stars](https://img.shields.io/github/stars/yourusername/diacare?style=social)  
-![License](https://img.shields.io/github/license/yourusername/diacare)  
-
----
- 🚀 OVERVIEW
+🚀 OVERVIEW
 Glycosync is an intelligent mobile application designed to empower diabetic patients in managing their health efficiently. By integrating personalized nutrition guidance, automated meal planning, glucose tracking, and lifestyle support, Diacare provides a holistic solution to daily diabetic care.  
 
 🎯 KEY FEATURES
